@@ -3,7 +3,7 @@ import { apiEntity } from "../apiConfig";
 import Banner from "../components/Banner/Banner";
 import Carousel from "../components/Carousel/Carousel";
 import Separator from "../components/Separator/Separator";
-import './Homepage.css';
+
 
 const Homepage = () => {
   return (
